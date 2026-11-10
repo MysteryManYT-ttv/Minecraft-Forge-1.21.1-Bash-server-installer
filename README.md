@@ -1,2 +1,25 @@
-# Minecraft-Forge-1.21.1-Bash-server-installer
-Bash script for installing a Minecraft Forge server, version 1.21.1.
+Minecraft Bash Forge Server Installer
+
+This script will download and install Minecraft Forge version 1.21.1
+
+
+
+IMPORTANT INFORMATION
+-----------------------------------------------
+Operating system support          | yes/no |
+-----------------------------------------------
+Ubuntu Linux Operating systems     | Yes |
+-----------------------------------------------
+Windows 7/10/11                    | No |
+-----------------------------------------------
+Android                            | No |
+-----------------------------------------------
+DO NOT RUN THIS BASH SCRIPT AGAIN AFTER RUNNING IT ONCE!
+
+In order to run the server after shutting it down after running the install script, go to your terminal on linux and type the following commands,
+
+cd ~/Documents
+
+cd /Minecraft-Server
+
+bash ./run.sh
