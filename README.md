@@ -6,13 +6,13 @@ This script will download and install Minecraft Forge version 1.21.1
 
 IMPORTANT INFORMATION
 -----------------------------------------------
-Operating system support          | yes/no |
+Operating system support            yes/no 
 -----------------------------------------------
-Ubuntu Linux Operating systems     | Yes |
+Ubuntu Linux Operating systems       Yes 
 -----------------------------------------------
-Windows 7/10/11                    | No |
+Windows 7/10/11                      No 
 -----------------------------------------------
-Android                            | No |
+Android                              No 
 -----------------------------------------------
 DO NOT RUN THIS BASH SCRIPT AGAIN AFTER RUNNING IT ONCE!
 
